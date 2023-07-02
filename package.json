@@ -19,7 +19,7 @@
   "homepage": "https://github.com/andymckay/labeler#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@actions/github": "^1.0.1",
+    "@actions/github": "^3.0.0",
     "eslint": "^8.44.0",
     "eslint-plugin-prettier": "^3.1.1",
     "prettier": "^1.18.2"
